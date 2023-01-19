@@ -1,5 +1,5 @@
 {
-    "name": "rayhan-khan-ridoy/calcpackage",
+    "name": "rayhan_khan_ridoy/calcpackage",
     "description": "personal package building",
     "type": "library",
     "autoload": {
